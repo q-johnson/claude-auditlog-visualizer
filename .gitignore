@@ -1,0 +1,19 @@
+# Audit log data — never commit real log files
+*.csv
+output.html
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
